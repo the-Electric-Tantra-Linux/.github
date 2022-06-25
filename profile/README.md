@@ -8,9 +8,7 @@
 the Project
   </summary>
   <ul>
-<li> The projects that are this organization's repositories are in total the working environment that I use on Linux. Without some means of demonstrating them, there would be no way to utilize these projects, each requiring significant amounts of time and energy, within my portfolio for employers to consider. </li>
-    <li>Additionally for those without the experience or patience to replicate this environment, the nuances of it might be lost were one to simply look over the `awesomewm` configuration or otherwise examine a portion of the code without the rest of the components within it. </li>
-<li> For those new to Arch, AwesomeWM, the Linux ricing community, prospective employers or other interested third parties, I have packaged it in an ISO such that you may run it as it is in Virtualbox or some other type 2 hyoervisor and experience the opinionated but potent desktop environment I have tailor made for Linux. </li>
+<li> Because certain individuals in  the awesome ricing community like to borrow other people's code then **not attribute in any way** the source of that code (which I at least have links to where ideas came from in my files and am making an Awesome list with everyone's configurations on it) the awesome configuration is private until a release is ready. At that time I will create a branch for the version at the time its posted on reddit and the discussions page on Github so people in the future can access the **actual version they see in the screenshot** evuidently a novel thought among those in the community. <br/> I an akk about using other people's configurations and code to generate your own, but that's going to have to wait until I release the thing. Sorry not sorry, learn to attribute. A link at the top of the file is not a burden, in fact its very helpful for later reference. </li>
     
   </ul>
 </details>
