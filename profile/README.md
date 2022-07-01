@@ -2,7 +2,7 @@
 <div style="inline-block">
 <img src="https://github.com/the-Electric-Tantra-Linux/.github/blob/main/profile/logo.gif?raw=true" alt="the Logo plus fancy glitch effect all the rage at present" width="32%" />
   <img src="https://github.com/the-Electric-Tantra-Linux/.github/blob/main/profile/logo.gif?raw=true" alt="the Logo plus fancy glitch effect all the rage at present" width="32%" />
-  <img src="https://github.com/the-Electric-Tantra-Linux/.github/blob/main/profile/logo.gif?raw=true" alt="the Logo plus fancy glitch effect all the rage at present" width="33%" />
+  <img src="https://github.com/the-Electric-Tantra-Linux/.github/blob/main/profile/logo.gif?raw=true" alt="the Logo plus fancy glitch effect all the rage at present" width="32%" />
   <br/>
   <img src="https://github.com/the-Electric-Tantra-Linux/.github/blob/main/profile/logo.gif?raw=true" alt="the Logo plus fancy glitch effect all the rage at present" width="32%" />
   <img src="https://github.com/the-Electric-Tantra-Linux/.github/blob/main/profile/logo.gif?raw=true" alt="the Logo plus fancy glitch effect all the rage at present" width="32%" />
