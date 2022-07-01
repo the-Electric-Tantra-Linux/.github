@@ -9,7 +9,6 @@
   <img src="https://github.com/the-Electric-Tantra-Linux/.github/blob/main/profile/logo.gif?raw=true" alt="the Logo plus fancy glitch effect all the rage at present" width="32%" />
   <br/>
 
-<div width="50%" float="left">
   
   <details>
   <summary>
@@ -20,9 +19,8 @@ What is the Electric Tantra Linux
 
 </details>
 
-</div
   
-<div width="50%" float="right">
+
 <details>
   <summary>
 Where Did the AwesomeWM Configuration Go?
@@ -34,7 +32,12 @@ Where Did the AwesomeWM Configuration Go?
 
 
   
-  </div>
+<details>
+  <summary>
+When Will It Be Ready?
+  </summary>
+  <p> Soon I hope </p>
+</details>
+
+
   
-  
-  </div>
