@@ -1,12 +1,12 @@
 
 <div style="inline-block">
-<img src="https://github.com/the-Electric-Tantra-Linux/.github/blob/main/profile/logo.gif?raw=true" alt="the Logo plus fancy glitch effect all the rage at present"  width="300" height="300" />
-  <img src="https://github.com/the-Electric-Tantra-Linux/.github/blob/main/profile/logo.gif?raw=true" alt="the Logo plus fancy glitch effect all the rage at present"  width="300" height="300" />
-  <img src="https://github.com/the-Electric-Tantra-Linux/.github/blob/main/profile/logo.gif?raw=true" alt="the Logo plus fancy glitch effect all the rage at present" width="300" height="300"  />
+<img src="https://github.com/the-Electric-Tantra-Linux/.github/blob/main/profile/logo.gif?raw=true" alt="the Logo plus fancy glitch effect all the rage at present"  width="400" height="400" />
+  <img src="https://github.com/the-Electric-Tantra-Linux/.github/blob/main/profile/logo.gif?raw=true" alt="the Logo plus fancy glitch effect all the rage at present"  width="400" height="400" />
+  <img src="https://github.com/the-Electric-Tantra-Linux/.github/blob/main/profile/logo.gif?raw=true" alt="the Logo plus fancy glitch effect all the rage at present" width="400" height="400"  />
   <br/>
-  <img src="https://github.com/the-Electric-Tantra-Linux/.github/blob/main/profile/logo.gif?raw=true" alt="the Logo plus fancy glitch effect all the rage at present" width="300" height="300" />
-  <img src="https://github.com/the-Electric-Tantra-Linux/.github/blob/main/profile/logo.gif?raw=true" alt="the Logo plus fancy glitch effect all the rage at present" width="300" height="300" />
-  <img src="https://github.com/the-Electric-Tantra-Linux/.github/blob/main/profile/logo.gif?raw=true" alt="the Logo plus fancy glitch effect all the rage at present" width="300" height="300"  />
+  <img src="https://github.com/the-Electric-Tantra-Linux/.github/blob/main/profile/logo.gif?raw=true" alt="the Logo plus fancy glitch effect all the rage at present" width="400" height="400" />
+  <img src="https://github.com/the-Electric-Tantra-Linux/.github/blob/main/profile/logo.gif?raw=true" alt="the Logo plus fancy glitch effect all the rage at present" width="400" height="400" />
+  <img src="https://github.com/the-Electric-Tantra-Linux/.github/blob/main/profile/logo.gif?raw=true" alt="the Logo plus fancy glitch effect all the rage at present" width="400" height="400"  />
 
   <br/>
 
