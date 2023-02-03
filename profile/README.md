@@ -1,7 +1,7 @@
 
 <div style="inline-block">
 <div style="inline-flex">
-<img src="https://github.com/the-Electric-Tantra-Linux/.github/blob/main/profile/logo.gif?raw=true" alt="the Logo plus fancy glitch effect all the rage at present"  width="400" height="400" />
+<!-- <img src="https://github.com/the-Electric-Tantra-Linux/.github/blob/main/profile/logo.gif?raw=true" alt="the Logo plus fancy glitch effect all the rage at present"  width="400" height="400" />
   <img src="https://github.com/the-Electric-Tantra-Linux/.github/blob/main/profile/logo.gif?raw=true" alt="the Logo plus fancy glitch effect all the rage at present"  width="400" height="400" />
   <img src="https://github.com/the-Electric-Tantra-Linux/.github/blob/main/profile/logo.gif?raw=true" alt="the Logo plus fancy glitch effect all the rage at present" width="400" height="400"  />
   </div>
@@ -9,7 +9,7 @@
   <div style="inline-flex">
   <img src="https://github.com/the-Electric-Tantra-Linux/.github/blob/main/profile/logo.gif?raw=true" alt="the Logo plus fancy glitch effect all the rage at present" width="400" height="400" />
   <img src="https://github.com/the-Electric-Tantra-Linux/.github/blob/main/profile/logo.gif?raw=true" alt="the Logo plus fancy glitch effect all the rage at present" width="400" height="400" />
-  <img src="https://github.com/the-Electric-Tantra-Linux/.github/blob/main/profile/logo.gif?raw=true" alt="the Logo plus fancy glitch effect all the rage at present" width="400" height="400"  />
+  <img src="https://github.com/the-Electric-Tantra-Linux/.github/blob/main/profile/logo.gif?raw=true" alt="the Logo plus fancy glitch effect all the rage at present" width="400" height="400"  /> -->
 </div>
   <br/>
 
