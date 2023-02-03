@@ -13,7 +13,7 @@
 </div>
   <br/>
 
-  
+<!--   
   <details>
   <summary>
 What is the Electric Tantra Linux
@@ -55,4 +55,4 @@ When Will It Be Ready?
 </details>
 
 
-  
+   -->
