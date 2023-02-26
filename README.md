@@ -1,1 +1,1 @@
-![Logo](logo.gif)![Logo](logo.gif)![Logo](logo.gif)
+![logo](https://github.com/the-Electric-Tantra-Linux/.github/blob/main/new-logo-line-nova.png?raw=true)
